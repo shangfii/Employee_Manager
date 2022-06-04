@@ -54,7 +54,7 @@ const seedDB = async () => {
         ["Malia", "Singh", 7, 6],
         ["Sarah", "Brown", 8, null],
         ["Tom", "Lourd", 9, 8],
-        ["Robert", "Llamas", 10, null]
+        ["Shang", "Celsius", 10, null]
     ]
     // running mysql query
     db.query(sql, [values], function (err, result) {
