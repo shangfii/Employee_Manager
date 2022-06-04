@@ -51,3 +51,8 @@ the following tools must be installed for this app to work correctly
 ## App at work
 
 ![Employee_Manger_App](https://github.com/shangfii/Employee_Manager/blob/main/iMages/Employee_Management_App.gif)
+
+## How to use the App
+
+run the index.js file from the command line and that will get the app started. 
+follow the promts and you will see the results
