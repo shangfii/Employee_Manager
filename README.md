@@ -47,3 +47,7 @@ the following tools must be installed for this app to work correctly
 5. npm install dontevn
 6. npm install mysql2-promise
 7. npm install asciiart-logo
+
+## App at work
+
+![Employee_Manger_App](https://github.com/shangfii/Employee_Manager/blob/main/iMages/Employee_Management_App.gif)
