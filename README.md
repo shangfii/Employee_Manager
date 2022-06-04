@@ -5,7 +5,7 @@
 Clone this repository or folk to you github account.  
 You will need a computer to test the app
 
-Make sure you are on the directory that has this app and run the following instations
+Make sure you are on the directory that has this app and run the following installations
 
 # List of installations 
 the following tools must be installed for this app to work correctly
