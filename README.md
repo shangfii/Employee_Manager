@@ -7,7 +7,7 @@ You will need a computer to test the app
 
 Make sure you are on the directory that has this app and run the following instations
 
-#List of installations 
+# List of installations 
 
 1. npm install inquirer
 2. npm install console.table
