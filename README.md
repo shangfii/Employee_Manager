@@ -2,7 +2,7 @@
 
 ## Get Started:
 
-Clone this repository or folk to you github account
+Clone this repository or folk to you github account.  
 You will need a computer to test the app
 
 Make sure you are on the directory that has this app and run the following instations
