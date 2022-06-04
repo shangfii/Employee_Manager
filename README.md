@@ -51,7 +51,7 @@ the following tools must be installed for this app to work correctly
 ## App at work
 Open the iMage in the Image folder above  to see if the image bellow is slow for you
 
-![Employee_Manger_App](https://github.com/shangfii/Employee_Manager/blob/main/iMages/Employee_Management_App.gif)
+![Employee_Manger_App](https://github.com/shangfii/Employee_Manager/blob/main/iMages/EmployeeManager.gif)
 
 ## How to use the App
 
