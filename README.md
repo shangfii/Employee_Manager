@@ -8,9 +8,12 @@ You will need a computer to test the app
 Make sure you are on the directory that has this app and run the following instations
 
 # List of installations 
+the following tools must be installed for this app to work correctly
 
-1. npm install inquirer
-2. npm install console.table
-3. npm install dontevn
-4. npm install mysql2-promise
-5. npm install asciiart-logo
+1. install node.js
+2. Install mysql
+3. npm install inquirer
+4. npm install console.table
+5. npm install dontevn
+6. npm install mysql2-promise
+7. npm install asciiart-logo
