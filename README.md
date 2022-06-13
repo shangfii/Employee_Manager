@@ -49,7 +49,7 @@ the following tools must be installed for this app to work correctly
 7. npm install asciiart-logo
 
 ## App at work
-Open the [iMage](https://github.com/shangfii/Employee_Manager/tree/main/iMages#:~:text=9%20days%20ago-,EmployeeManager.mov,-Demo%20video) in the Image folder above  to see the app at work just incase image image bellow is slow for you
+Open the [iMage](https://github.com/shangfii/Employee_Manager/tree/main/iMages#:~:text=9%20days%20ago-,EmployeeManager.mov,-Demo%20video) in the Image folder above  to see the app at work just incase the image bellow is slow for you
 
 ![Employee_Manger_App](https://github.com/shangfii/Employee_Manager/blob/main/iMages/EmployeeManager.gif)
 
